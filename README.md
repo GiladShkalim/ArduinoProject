@@ -5,11 +5,11 @@ Uses 'Arduino Software (IDE)' environment.
 
  - This project presents a model of a firetruck, capable of:
    - Following line autonomously.
-   - Control via WIFI connection.
+   - Control via Bluetooth connection.
 
  - Main hardware components:
    - arduino nano board based on the ATmega328.
-   - Arduino WiFi Wireless Module ESP8266.
+   - Wireless Bluetooth Transceiver (HC-05).
    - Micro Servo motor.
    - Infrared Reflective Sensor (TCRT5000).
    - Motor Driver Controller (L298).
